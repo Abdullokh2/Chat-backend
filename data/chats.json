@@ -1,0 +1,31 @@
+[
+  {
+    "id": "335d213d-37d9-42c3-99fd-951c1dd4b8e0",
+    "name": "",
+    "type": "private",
+    "participants": [
+      {
+        "id": "12c82c31-e4e9-4529-81f0-f71c24f0d815",
+        "email": "saodat12232012@gmail.com",
+        "fullName": "abdullokh1",
+        "avatar": "",
+        "status": "Available",
+        "createdAt": "2025-08-08T12:34:35.963Z"
+      },
+      {
+        "id": "e10a6092-1d53-4122-b760-bc98f51e1ae9",
+        "email": "saodat12232012@gmail.com",
+        "fullName": "defrghy",
+        "avatar": "",
+        "status": "Available",
+        "createdAt": "2025-08-09T13:39:38.803Z"
+      }
+    ],
+    "createdBy": "12c82c31-e4e9-4529-81f0-f71c24f0d815",
+    "createdAt": "2025-08-09T13:53:57.724Z",
+    "settings": {
+      "canAddMembers": false,
+      "canPostMessages": "all"
+    }
+  }
+]

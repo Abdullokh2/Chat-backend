@@ -1,0 +1,27 @@
+[
+  {
+    "id": "d8b61429-16b9-4bb4-bfd0-a4c0d6d67f1b",
+    "chatId": "335d213d-37d9-42c3-99fd-951c1dd4b8e0",
+    "senderId": "12c82c31-e4e9-4529-81f0-f71c24f0d815",
+    "content": "erftgyhui",
+    "type": "text",
+    "timestamp": "2025-08-09T13:54:02.780Z",
+    "file": null,
+    "readBy": [
+      "12c82c31-e4e9-4529-81f0-f71c24f0d815",
+      "e10a6092-1d53-4122-b760-bc98f51e1ae9"
+    ]
+  },
+  {
+    "id": "b2eb14c2-a740-4c28-9ac3-843ac756566a",
+    "chatId": "335d213d-37d9-42c3-99fd-951c1dd4b8e0",
+    "senderId": "e10a6092-1d53-4122-b760-bc98f51e1ae9",
+    "content": "😍",
+    "type": "text",
+    "timestamp": "2025-08-09T13:54:18.513Z",
+    "file": null,
+    "readBy": [
+      "e10a6092-1d53-4122-b760-bc98f51e1ae9"
+    ]
+  }
+]
